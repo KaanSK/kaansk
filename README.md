@@ -1,4 +1,8 @@
-[![](./profile-summary-card-output/github/0-profile-details.svg)](https://github.com/kaansk/github-profile-summary-cards)
-[![](./profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/kaansk/github-profile-summary-cards)
-[![](./profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/kaansk/github-profile-summary-cards)
-[![](./profile-summary-card-output/github/3-stats.svg)](https://github.com/kaansk/github-profile-summary-cards)
+<p align="center">
+<a href='kaankaradag.com'>
+  <img width="70%" src='https://raw.githubusercontent.com/kaansk/kaansk/master/intro.gif'/>
+</a>
+  <img width="72%" src="https://raw.githubusercontent.com/kaansk/readme-graphs/master/profile-summary-card-output/vue/0-profile-details.svg">
+  <img width="35%"  src="https://raw.githubusercontent.com/kaansk/readme-graphs/master/profile-summary-card-output/vue/1-repos-per-language.svg">
+  <img width="35%" src="https://raw.githubusercontent.com/kaansk/readme-graphs/master/profile-summary-card-output/vue/3-stats.svg">
+</p>
